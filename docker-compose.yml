@@ -1,0 +1,7 @@
+version: '3'
+services:
+  debian:
+    image: "debian:latest"
+    ports:
+      - ${LIVIMA_HTTP_PORT}:2086
+      - ${LIVIMA_HTTPS_PORT}:2096
