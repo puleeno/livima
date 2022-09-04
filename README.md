@@ -20,3 +20,4 @@ Linux Virtualhost Manager via web GUI
 - Manage domains
 - Manage databases
 - Manage PHP versions for your website
+- `https` is supported with <a href="https://zerossl.com?fpr=tho97" target="_blank">Zero SSL</a>
